@@ -26,20 +26,14 @@
     "links": [
       {
         "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "GAH Patreon",
+          "url": "https://www.patreon.com/GamesAgainstHumanity"
         }
       },
       {
         "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
-        }
-      },
-      {
-        "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
+          "text": "GAH Discord Link",
+          "url": "https://discord.gg/w4UE8uQY2"
         }
       }
     ]
