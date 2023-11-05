@@ -2,9 +2,9 @@
   "WBUI2": {
     "settings": {
         "OpenButton": 0,
-        "HideIcon": false,
+        "HideIcon": true,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "IconURL": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/2919811/b13ea6ba23cf4cb59768b45de4b3a7c3/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/6.jpg?token-time=1700438400&token-hash=iA_NXL7fWkRSvAbIKRSE1QmUsrEW0-80vNynZxoqnfA%3D",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
@@ -16,49 +16,10 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<TextStyle.Red>1 Box layout</>",
-          "title1": "Welcome to WBUI2!",
-          "text1": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available colors and the syntax you can use to colorize the text for the buttons, titles and general text:\n\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab3": {
-          "layout": 3,
-          "buttontext": "3 Box layout",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 Box layout",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "buttontext": "Settings</>",
+          "title1": "INI Settings",
+          "text1": "NOTE: These are our standard settings across all maps and does not include special event settings/boosts.\n\n-Allow Cave Building-Off\n-Allow Cave Flyers-Off\n-Allow Flyer Carry-On\n-Allow Tribe Imprinting-On\n-Allow Unlimited Respecs-On\n-Baby Mature Speed-x6\n-Egg Hatch Speed-x6\n-SupplyCrateLootQualityMultiplier-x1\n-Fishing Loot Quality Multiplier-x1.5\n-Global Spoiling Time Multiplier-x1.5\n-Harvesting Rate-x3\n-Lay Egg Interval Multiplier-x0.25\n-Mating Interval-x0.14\n-PvE Friendly Fire-On **Tribe mates only.\n-Structure Decay-On\n-Taming Speed-x3\n-XP Multiplier-x2",
+          "imageurl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/2919811/b13ea6ba23cf4cb59768b45de4b3a7c3/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/6.jpg?token-time=1700438400&token-hash=iA_NXL7fWkRSvAbIKRSE1QmUsrEW0-80vNynZxoqnfA%3D"
         }
       }
     ],
