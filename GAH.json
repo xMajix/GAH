@@ -25,6 +25,15 @@
       {
         "tab2": {
           "layout": 1,
+          "buttontext": "News/Announcements",
+          "title1": "News/Announcements",
+          "text1": "===Mindwipe Note===\n\nCurrently, Mindwipe is bugged. If you use Mindwipe tonic past level 90, it will not refund the full level of XP to get back to your level. IE: Level 100 player uses Mindwipe, game will only give them XP to level 90.\n\n===Adding Additional Mods===\n\nAnswer is YES, we will be adding additional mods. We are also building a RP story, which begins this Saturday, which will involve the community (Both involved and every other player in the server) Stay tuned to the Event's Page!",
+          "imageurl": ""
+        }
+      },
+      {
+        "tab3": {
+          "layout": 1,
           "buttontext": "Settings",
           "title1": "INI-Settings",
           "text1": "NOTE: These are our standard settings across all maps and does not include special event settings/boosts.\n\n-Allow Cave Building-Off\n-Allow Cave Flyers-Off\n-Allow Flyer Carry-On\n-Allow Tribe Imprinting-On\n-Allow Unlimited Respecs-On\n-Baby Mature Speed-x6\n-Egg Hatch Speed-x6\n-SupplyCrateLootQualityMultiplier-x1\n-Fishing Loot Quality Multiplier-x1.5\n-Global Spoiling Time Multiplier-x1.5\n-Harvesting Rate-x3\n-Lay Egg Interval Multiplier-x0.25\n-Mating Interval-x0.14\n-PvE Friendly Fire-On **Tribe mates only.\n-Structure Decay-On\n-Taming Speed-x3\n-XP Multiplier-x2",
@@ -32,7 +41,7 @@
         }
       },
       {
-        "tab3": {
+        "tab4": {
           "layout": 2,
           "buttontext": "Event Info",
           "title1": "Story Event Info",
