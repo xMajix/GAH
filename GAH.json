@@ -61,6 +61,15 @@
           "text2": "<TextStyle.Orange>Research Task:</>\nCryo Stability\n200 Tek roll Task in Cryo Lab Thread\n0/200 Cryo Pods\n\n<TextStyle.Green>Construction Task:</>\nEnclave Garden\n27656/25000 Crystal\n7139/4000 Metal Ingots\n20000/20000 Paste\n2000/2000 Fertilizer\n25000/25000 Wood\n\n<TextStyle.Orange>Current Quests!:</>\nEnron Library blueprints 97/150\n\n<TextStyle.Yellow>Available Construction Task:</>\n-Observation Tower(Shiny DInos Upgrades)\n-Enclave Garden(Buffs and Crafting Potion)\n-Enclave Port(Market)\n-Sky Fleet Argie Tower(Increase Argie Count for Sky Fleet)\n-Improved Lab Equipment(add +2 to all Research task rolls)\n\n<TextStyle.Blue>Available Research Task</>\n-Research Task: Cryo Stability(Allows the capture of Dinos in combat)\n-Research Task: Allo Mastery(Strengthens the capacities of friendly Allos across the server)\n-Research Task: Interfacing with the Obelisk Systems(Gain access to unique tasks for ark systems and bosses)\n-Research Task: Identifying(Figuring out unknown objects)\n",
           "imageurl": "https://i.imgur.com/a4ZuM76.jpg"
         }
+      },
+      {
+        "tab6": {
+          "layout": 1,
+          "buttontext": "The Enclave Gardens",
+          "title1": "The Enclave Gardens",
+          "text1": "<TextStyle.Green>The Enclave Gardens</>\nGain +1 Growth on Lun Carrots and Rain Shrooms\nCrop Plot (Lun Carrot: M:3): G: 0 D: 1\nCrop Plot (Rain Shroom: M:5): G: 0 D: 3\nCrop Plot (Empty: M:0): G: 0 D: 0\nCrop Plot (Empty: M:0): G: 0 D: 0\n\nDate: 11/20 (will not start until ground is cleared and location chosen)",
+          "imageurl": "https://scontent.fphx2-1.fna.fbcdn.net/v/t31.18172-8/12017461_523339837843926_6692497194434444602_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=4dc865&_nc_ohc=rptCx_CSa2IAX_06GWk&_nc_oc=AQmdIxXZGIktepcIFi589rPrAovTExex13n2jXhl3JoxLD0aJEW4L-Cpm2HHQ6Z_ce0&_nc_ht=scontent.fphx2-1.fna&oh=00_AfCg6LgFMkTdzl6mQWWuqKwwyd1m_BWXBAus0ytjFKhD_w&oe=65833896"
+        }
       }
     ],
     "links": [
