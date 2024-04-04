@@ -65,9 +65,9 @@
       {
         "tab6": {
           "layout": 2,
-          "buttontext": "Enclave Gardens",
-          "title1": "The Enclave Gardens",
-          "title2": "Recipes",
+          "buttontext": "The Paracer's Info",
+          "title1": "The Titanosaur",
+          "title2": "The Groups Dinos",
           "text1": "<TextStyle.Green>None</>n/a",
           "text2": "<TextStyle.Green>Known Cooking Recipes</>n/a",
           "imageurl": "https://i.imgur.com/a4ZuM76.jpg"
