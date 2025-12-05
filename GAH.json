@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "News/Announcements",
           "title1": "News/Announcements",
-          "text1": "<TextStyle.Blue>===Cryo Pods===</>\nCryo Pods are in with Limited functionality. Check out the Events Page for information regarding Upgrading Cryo.\n\n<TextStyle.Violet>===Shiny Dinos!===</>\n\n<TextStyle.Orange>Shiny Dinos Mod is back, and with that we need to convey our Settings and Etiquette:</>\nSettings: 10 Shinys Max - Level Range 150-180 - Lifespan 5-8hr - Tracker=Enabled - Coordinates on Notification=Enabled\nEtiquette: As this is a community server, we value fair play, honesty, and integrity. We ask that there are no 'DIBS' on Shinys that spawn. You can only claim the Shiny, once you have spotted it and are in process of taming it.\n\n==Crafting Potion==\n\nCrafting potion is now in game! It will respec your character to full Crafting Skill for a duration of 5 minutes(Can be canceled by holding R). It does not give Bonus weight so be sure you are at the spot you want to be to craft your items!",
+          "text1": "<TextStyle.Blue>===New Mods 12-16-2025===</>\nS-Variant Dinos, Arkitect Structures Remastered, & MX Shop UI.\n\n<TextStyle.Violet>===Shiny Dinos!===</>\n\n<TextStyle.Orange>Shiny Dinos Settings and Etiquette:</>\nSettings: 10 Shinys Max - Level Range 150-180 - Lifespan 5-8hr - Tracker=Enabled - Coordinates on Notification=Enabled\nEtiquette: As this is a community server, we value fair play, honesty, and integrity. We ask that there are no 'DIBS' on Shinys that spawn. You can only claim the Shiny, once you have spotted it and are in process of taming it.\n\n==Ark Shop!==\n\nArk Shop has arrived! Press F3 to view the store. Currency accrued over played time, 15 pts / 30 mins (30 pts / 30 mins Patreons)",
           "imageurl": ""
         }
       },
@@ -90,3 +90,4 @@
     ]
   }
 }
+
